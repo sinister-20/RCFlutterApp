@@ -2,6 +2,8 @@
 
 A new Flutter application.
 
+This is a food delivery and room booking app.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
